@@ -1,6 +1,6 @@
 # what  i will try to do in this fork:
 
--delete the capture if it is still exists and download the vod to fix the cut segments in the captured vod
+-delete the capture if vod exists on twitch and download the vod to fix the cut segments in the captured vod
 
 
 # LiveStreamDVR
